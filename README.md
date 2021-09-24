@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, i'm daniMartinez 👋 👨‍💻
+
 
 <!--
 **j-coast/j-coast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
