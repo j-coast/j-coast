@@ -1,17 +1,23 @@
 ![Fondo LinkedIn2](https://user-images.githubusercontent.com/81252265/134660973-20a9bd11-5645-4e8d-a77d-7667709751a7.jpg)
 
-### Hi, i'm daniMartinez 👋 👨‍💻
-<!--
-**j-coast/j-coast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, i'm jcoastDev 👋 👨‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-jcoastDev-blue)](https://www.linkedin.com/in/danielmartinezgonzalez-developer/)
+[![](https://img.shields.io/badge/Gmail-jcoastmail%40gmail.com-red)](mailto:jcoastmail@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const jcoastDev = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs", "express", "java"],
+        fronEnd: ["HTML", "CSS", "react", "php"],
+        database: ["mySql"],
+    }
+}
+```
+
+
+
+![Some Stats](https://github-readme-stats.vercel.app/api?username=j-coast&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
