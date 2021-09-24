@@ -1,6 +1,6 @@
+![Fondo LinkedIn2](https://user-images.githubusercontent.com/81252265/134660973-20a9bd11-5645-4e8d-a77d-7667709751a7.jpg)
+
 ### Hi, i'm daniMartinez 👋 👨‍💻
-
-
 <!--
 **j-coast/j-coast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
