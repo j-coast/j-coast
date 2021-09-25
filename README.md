@@ -1,10 +1,6 @@
 ![Fondo LinkedIn2](https://user-images.githubusercontent.com/81252265/134660973-20a9bd11-5645-4e8d-a77d-7667709751a7.jpg)
-
-### Hi, i'm jcoastDev 👋 👨‍💻
-
 [![](https://img.shields.io/badge/LinkedIn-jcoastDev-blue)](https://www.linkedin.com/in/danielmartinezgonzalez-developer/)
 [![](https://img.shields.io/badge/Gmail-jcoastmail%40gmail.com-red)](mailto:jcoastmail@gmail.com)
-
 ```javascript
 const jcoastDev = {
     pronouns: "He" | "Him",
